@@ -10,7 +10,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 import java.util.List;
-
+//Stores element locators
 public class HomePage extends Utility {
     private static final Logger log = LogManager.getLogger(HomePage.class.getName());
 
